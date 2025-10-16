@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hi!! My name is Naima. I am a full-stack software engineer based in Boston, MA.
+
+✨I love solving problems, collaborating with others, being creative, playing guitar, baking, going to the gym, and acting ✨
+
+🌱HTML, CSS, JavaScript, Node🌱
+
+🔭I am currently developing a website for a woman-owned holistic practice. It will be fully functional with integrated POS systems!🔭
+
+🤔If you're interested in collaborating on this project to support an upcoming software engineer who is still getting familiar with the ropes, feel free to connect with me on LinkedIn or another social media platform I've linked to!🤔
+
 <!--
 **NaimaBogran/NaimaBogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
